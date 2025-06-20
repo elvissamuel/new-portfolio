@@ -71,7 +71,7 @@ export default function Projects() {
                     ))}
                   </ul>
                 </div>
-                <div className="flex gap-2 pt-4">
+                {/* <div className="flex gap-2 pt-4">
                   <Button size="sm" variant="outline" className="flex-1 bg-white text-slate-900 hover:bg-slate-50">
                     <Github className="w-4 h-4 mr-2" />
                     Code
@@ -80,7 +80,7 @@ export default function Projects() {
                     <ExternalLink className="w-4 h-4 mr-2" />
                     Demo
                   </Button>
-                </div>
+                </div> */}
               </CardContent>
             </Card>
           ))}

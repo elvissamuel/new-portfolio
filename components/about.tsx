@@ -17,15 +17,15 @@ export default function About() {
               staying current with the latest web technologies.
             </p>
             <div className="space-y-2">
-              <div className="flex items-center">
+              <div className="flex gap-4 items-center">
                 <span className="font-semibold text-slate-900 w-20">Location:</span>
                 <span className="text-slate-600">Lagos, Nigeria</span>
               </div>
-              <div className="flex items-center">
+              <div className="flex gap-4 items-center">
                 <span className="font-semibold text-slate-900 w-20">Education:</span>
                 <span className="text-slate-600">B.Sc Computer Science</span>
               </div>
-              <div className="flex items-center">
+              <div className="flex gap-4 items-center">
                 <span className="font-semibold text-slate-900 w-20">Languages:</span>
                 <span className="text-slate-600">English (Fluent), Yoruba</span>
               </div>
